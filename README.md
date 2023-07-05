@@ -1,4 +1,4 @@
-<h1 align="left">Alexey Ivanov (@suchimauz) 🤙</h1>
+<h1 align="left">Aleksej Fedulov (@suchimauz) 🤙</h1>
 
 - 🤖 Stack: **Clojure**, **Golang**, **JS**/(**ClojureScript**|**Vue**). Mainly focused on Backend & DevOps.
 - 📩 Email: **su4imauz@gmail.com**
